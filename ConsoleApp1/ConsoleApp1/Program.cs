@@ -17,9 +17,13 @@ namespace ConsoleApp1
 
             Console.WriteLine("Testing 123");
 
-            if(3 > 2)
+            if (3 > 2)
             {
                 Console.WriteLine("3 is greater than 2");
+            }
+            else
+            {
+                Console.WriteLine("How is this possible?");
             }
 
             Console.ReadKey();
