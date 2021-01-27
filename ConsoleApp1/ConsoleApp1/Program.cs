@@ -16,6 +16,12 @@ namespace ConsoleApp1
 
 
             Console.WriteLine("Testing 123");
+
+            if(3 > 2)
+            {
+                Console.WriteLine("3 is greater than 2");
+            }
+
             Console.ReadKey();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
